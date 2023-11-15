@@ -12,6 +12,8 @@
 <h2> Certifications </h2>
 
   - [Cisco: Introduction to Cybersecurity](https://www.credly.com/badges/dce732a6-ef36-4ca1-bf6c-eaa5dc0a394f/public_url)
+  - [Cisco: Cyber Threat Management](https://www.credly.com/badges/dce732a6-ef36-4ca1-bf6c-eaa5dc0a394f/public_url)
+  - [Cisco: Endpoint Security](https://www.credly.com/badges/dce732a6-ef36-4ca1-bf6c-eaa5dc0a394f/public_url)
 
   - [Blank](Blank) <b><i>(Blank)</b></i>
 - <b>Blank</b>
